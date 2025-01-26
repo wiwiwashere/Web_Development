@@ -1,5 +1,5 @@
-# Personal Website Template
+# UF Scioly Website
 
-Description: A beginner-friendly personal website template with helpful comments.
+Description: developing a more-centralized website for UF Science Olympiad that should allow easier info-access
 
-Fork this repository and edit away!
+(under development)
